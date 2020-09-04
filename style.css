@@ -8,7 +8,7 @@ body {
 
 
 
-/* Navbar Section */
+/* Navbar  */
 
 .navbar {
   background: rgb(8, 1, 20);
@@ -67,9 +67,7 @@ body {
 
 }
 
-
-
-/*Banner Section*/
+/*Banner */
 
 .item-1,
 .item-2,
@@ -96,9 +94,7 @@ body {
   padding: 0;
 }
 
-
-
-/* Title section */
+/* Title  */
 
 .title h2 {
   color: black;
@@ -120,7 +116,7 @@ body {
 
 }
 
-/* Skills Section */
+/* Skills */
 
 .skills-icon {
   background:rgb(9, 70, 70);
@@ -148,7 +144,7 @@ body {
   color:#950740,
 }
 
-/*###########about############*/
+/* About */
 
 #about .title a {
   background: black
@@ -165,12 +161,10 @@ body {
 
 .about-progress {
   min-height: 50vh;
-  background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(img/video-filler.jpeg)center/cover fixed no-repeat;
+  background: url(img/video-filler.jpeg)center/cover fixed no-repeat;
   outline: 5px solid rgb(9, 70, 70);
   outline-offset: 10px;
 }
-
-
 
 
 .progress-bar {
@@ -178,9 +172,7 @@ body {
 
 }
 
-
-
-/*#############projects##########*/
+/* Project */
 
 #projects button {
   background: rgb(9, 70, 70);
@@ -231,19 +223,12 @@ body {
 }
 
 
-
-
-
-
-
-
-
 .inner-form{
   background-color:black;
 }
 
 
-/*############values##############*/
+/* value */
 
 .value {
   position: relative
@@ -285,13 +270,9 @@ body {
   transform: scale(0.9);
 }
 
-
-
 .value{
   background-color: rgb(10, 6, 17);
 }
-
-
 
 
 /* Contact Section */
@@ -344,7 +325,7 @@ body {
 
 }
 
-/*##############footer###################*/
+/* Footer */
 
 footer {
   background: rgb(8, 1, 20);
@@ -366,7 +347,6 @@ footer h5 {
   font-size: 12px;
 
 }
-
 
 .font{
  color: aqua;
