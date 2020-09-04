@@ -347,7 +347,9 @@ footer h5 {
   font-size: 12px;
 
 }
-
+ #align{
+   text-align: justify;
+ }
 .font{
  color: aqua;
 }
@@ -366,4 +368,7 @@ footer h5 {
 }
 .front5{
   color: aqua;;
+}
+#align{
+  text-align: justify;
 }
